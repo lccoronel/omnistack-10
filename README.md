@@ -1,6 +1,6 @@
 # OmniStack-10.0 - DevRadar
 
-![FrontEnd](https://github.com/lccoronel/OmniSatck-10.0/blob/master/Captura%20de%20Tela%202020-01-22%20às%2011.52.41.png)
+<img src="https://user-images.githubusercontent.com/54275445/78556057-a4d6a280-77e4-11ea-96f2-314d9d024493.jpeg" width="200" height="400">
 
 Participei da semana OmniStack 10.0, onde desenvolvi um projeto completo ( BackEnd, FrontEnd e  Mobile )!
 
