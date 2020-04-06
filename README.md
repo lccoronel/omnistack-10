@@ -1,6 +1,13 @@
 # OmniStack-10.0 - DevRadar
 
+<div style="display: flex; flex-direction: row" >
+  
 <img src="https://user-images.githubusercontent.com/54275445/78556057-a4d6a280-77e4-11ea-96f2-314d9d024493.jpeg" width="200" height="400">
+
+<img src="https://user-images.githubusercontent.com/54275445/78556766-efa4ea00-77e5-11ea-91c4-2ea1470f756a.jpeg" width="600"
+height="300">
+
+</div>
 
 Participei da semana OmniStack 10.0, onde desenvolvi um projeto completo ( BackEnd, FrontEnd e  Mobile )!
 
